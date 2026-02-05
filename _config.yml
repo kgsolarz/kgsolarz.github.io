@@ -361,9 +361,10 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                Katie Solarz
-#   links:
+social:
+   github:               kgsolarz
+   linkedin:             kaitlyn-solarz
+   email:                katiesolarz@gmail.com
 #     - https://www.linkedin.com/in/kaitlyn-solarz 
 #     - https://github.com/kgsolarz
 
