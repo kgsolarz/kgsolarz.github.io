@@ -36,7 +36,10 @@ keywords:              []
 
 # A square image for your site.
 # Used as a fallback for the apple touch icon and in the 'Home' screen on Android devices
-favicon:               /assets/icons/favicon.png
+favicon:               /assets/img/favicon.png
+
+# Apple Touch Icon (for iOS devices)
+apple_touch_icon:      /assets/img/favicon.png
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
