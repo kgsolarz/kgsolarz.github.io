@@ -34,6 +34,10 @@ tagline:               Graduate Student @ Duke University, Department of Statist
 # A list of keywords for your blog
 keywords:              []
 
+# A square image for your site.
+# Used as a fallback for the apple touch icon and in the 'Home' screen on Android devices
+favicon:               /assets/icons/favicon.png
+
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
