@@ -38,8 +38,8 @@ permalink: /teaching/
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 3rem; margin-top: 3rem;">
-  <img src="/assets/img/Duke-seal.png" alt="Duke University" style="height: 120px; width: auto;">
-  <img src="/assets/img/ND-seal.png" alt="University of Notre Dame" style="height: 120px; width: auto;">
+  <img src="/assets/img/Duke_seal.png" alt="Duke University" style="height: 120px; width: auto;">
+  <img src="/assets/img/ND_seal.png" alt="University of Notre Dame" style="height: 120px; width: auto;">
 </div>
 
 ---
