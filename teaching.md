@@ -23,6 +23,8 @@ permalink: /teaching/
 
 * **STA 101L: Data Analysis & Statistical Inference** (Fall 2024)
 
+![Duke Logo](/assets/img/Duke-University-Logo.png){:.lead width="200" loading="lazy"}
+
 ---
 
 ## University of Notre Dame
@@ -34,5 +36,7 @@ permalink: /teaching/
 * **ECON 30331: Econometrics** (Fall 2020)
 
 * **FIN 20150: Corporate Financial Management** (Fall 2020)
+
+![ND Logo](/assets/img/Notre-Dame-Logo.png){:.lead width="200" loading="lazy"}
 
 ---
