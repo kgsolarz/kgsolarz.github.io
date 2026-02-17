@@ -38,7 +38,7 @@ Feel free to reach out via [email](mailto:katiesolarz@gmail.com) or connect with
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
   <img src="/assets/img/cheer/dome.JPG" alt="Notre Dame Cheerleading" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/img/cheer/IMG_3577.jpg" alt="Notre Dame Cheerleading" style="width: 100%; border-radius: 8px;">
   <img src="/assets/img/cheer/lib_line.JPG" alt="Notre Dame Cheerleading" style="width: 100%; border-radius: 8px;">
   <img src="/assets/img/cheer/IMG_4105.JPG" alt="Notre Dame Cheerleading" style="width: 100%; border-radius: 8px;">
-  <img src="/assets/img/cheer/IMG_3577.jpg" alt="Notre Dame Cheerleading" style="width: 100%; border-radius: 8px;">
 </div>
