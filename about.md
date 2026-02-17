@@ -33,3 +33,12 @@ Bachelor of Science, *magna cum laude* | 2021
 ## Contact
 
 Feel free to reach out via [email](mailto:katiesolarz@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/kaitlyn-solarz).
+
+## Photos
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  <img src="/assets/img/cheer/dome.JPG" alt="Notre Dame Cheerleading" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/assets/img/cheer/lib_line.JPG" alt="Notre Dame Cheerleading" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/assets/img/cheer/IMG_4105.JPG" alt="Notre Dame Cheerleading" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/assets/img/cheer/IMG_3577.jpg" alt="Notre Dame Cheerleading" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
